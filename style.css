@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+#header {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.25);
+
+    width: 100%;
+    opacity: 30;
+    font-family: Roboto;
+    font-size:80px;
+    font-weight: bolder;
+    
+}
+img {
+    max-width: 100%;
+}
+
+.history {
+  
+    text-align: center;
+    width: 100%;
+    
+   
+}
+
+
+
+p {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 2em;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+}
+
+ul {
+    display: inline;
+ 
+
+
+}
+
+li {
+    font-size: 30px;
+    color: black;
+    display: inline;
+    ;
+}
+
+a {
+    text-decoration:none;
+    color: black;
+}
+
+a:hover {
+    color: purple;
+}
